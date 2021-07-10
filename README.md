@@ -20,7 +20,7 @@ localhost:15672
 Download and run Zipkin jar to start zipkin server.
 Open Gitbash and execute below commands
 
-curl -sSL https://zipkin.io/quickstart.sh | bash -s
+curl -sSL https://zipkin.io/quickstart.sh | bash -s <br /> 
 java -jar zipkin.jar
 
 http://localhost:9411/zipkin
